@@ -11,4 +11,6 @@ The challenges in this project:
 #flickity - wraparound: I learned another new thing which is wraparound and how to insert images there and I got stuck a bit because I didn't understand at first that I had to download "jquery cdn" and also insert the libraries into the code for the function of "data-flickity-options" to work for me.
 
 
-<img width="1280" alt="Screen Shot 2023-09-18 at 5 06 49" src="https://github.com/fadyzar/Amazon_proj/assets/93481957/aa689507-00f1-4cec-a276-5b6789327058">
+<img width="500px" alt="Screen Shot 2023-09-18 at 6 21 51" src="https://github.com/fadyzar/Amazon_proj/assets/93481957/8582dfa3-1047-43e0-ae57-e22139cd11d9">
+
+<img width="500px" alt="Screen Shot 2023-09-18 at 6 22 21" src="https://github.com/fadyzar/Amazon_proj/assets/93481957/726d8a23-c86b-4317-8e58-2330c4b16040">
