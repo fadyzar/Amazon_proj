@@ -10,3 +10,4 @@ The challenges in this project:
 
 #flickity - wraparound: I learned another new thing which is wraparound and how to insert images there and I got stuck a bit because I didn't understand at first that I had to download "jquery cdn" and also insert the libraries into the code for the function of "data-flickity-options" to work for me.
 
+![Alt text](Screen Shot 2023-09-18 at 5.06.49.png)
