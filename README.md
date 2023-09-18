@@ -13,4 +13,3 @@ The challenges in this project:
 
 <img width="500px" alt="Screen Shot 2023-09-18 at 6 21 51" src="https://github.com/fadyzar/Amazon_proj/assets/93481957/8582dfa3-1047-43e0-ae57-e22139cd11d9">
 
-<img width="500px" alt="Screen Shot 2023-09-18 at 6 22 21" src="https://github.com/fadyzar/Amazon_proj/assets/93481957/726d8a23-c86b-4317-8e58-2330c4b16040">
